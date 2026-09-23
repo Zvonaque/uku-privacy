@@ -6,7 +6,7 @@ title: Pravila privatnosti — UKU
 
 # Pravila privatnosti — UKU
 
-_Na snazi od: 30. kolovoza 2026. · Odnosi se na aplikaciju UKU („Učiti kako učiti") tijekom zatvorene beta faze._
+_Na snazi od: 23. rujna 2026. · Odnosi se na aplikaciju UKU („Učiti kako učiti") tijekom zatvorene beta faze._
 
 UKU je aplikacija za učenje radnih navika namijenjena djeci školske dobi i
 njihovim roditeljima, a izradio ju je Zvonimir Jukić. Pomaže djetetu
@@ -53,9 +53,10 @@ smo ih tako da ne nose nikakve identifikatore korisnika.
 
 Podaci aplikacije pohranjeni su kod pružatelja usluge **Supabase**, na
 poslužiteljima u **Europskoj uniji**. Dostavu obavijesti i izvještaje o rušenju
-omogućuje **Google Firebase** (Cloud Messaging i Crashlytics). Ti pružatelji
-obrađuju podatke isključivo u naše ime, radi rada usluge. Svi se podaci
-prenose šifrirano.
+omogućuje **Google Firebase** (Cloud Messaging i Crashlytics). E-poruke vezane
+uz račun (potvrda registracije i kodovi za oporavak lozinke) šalju se putem
+Googleove usluge **Gmail**. Ti pružatelji obrađuju podatke isključivo u naše
+ime, radi rada usluge. Svi se podaci prenose šifrirano.
 
 ## Zašto ih obrađujemo (pravna osnova)
 

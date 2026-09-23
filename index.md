@@ -6,7 +6,7 @@ title: UKU Privacy Policy
 
 # UKU Privacy Policy
 
-_Effective date: 30 August 2026 · Applies to the UKU app ("Učiti kako učiti") during its closed beta._
+_Effective date: 23 September 2026 · Applies to the UKU app ("Učiti kako učiti") during its closed beta._
 
 UKU is a learning-habit app for school-age children and their parents, built by
 Zvonimir Jukić. It helps a child plan school activities, check in on them
@@ -50,8 +50,10 @@ you created — we have configured them to carry no user identifiers.
 
 App data is stored with **Supabase** on servers in the **European Union**.
 Push-notification delivery and crash reporting are provided by **Google
-Firebase** (Cloud Messaging and Crashlytics). These providers process data
-only on our behalf to run the service. All data is encrypted in transit.
+Firebase** (Cloud Messaging and Crashlytics). Account emails (sign-up
+confirmation and password reset codes) are sent through **Google's Gmail**
+service. These providers process data only on our behalf to run the service.
+All data is encrypted in transit.
 
 ## Why we process it (legal basis)
 
