@@ -17,10 +17,14 @@ Namjerno su kratka — aplikacija prikuplja vrlo malo podataka.
 
 ## Što prikupljamo
 
-**Podaci o računu.** Adresa e-pošte i odabrana uloga (dijete ili roditelj).
-E-pošta služi za prijavu i za slanje poruka vezanih uz račun (primjerice
-potvrde registracije). Ne tražimo imena, datume rođenja, fotografije ni
-brojeve telefona.
+**Podaci o računu.** Adresa e-pošte, odabrana uloga (dijete ili roditelj) i
+ime koje sami odaberete (dovoljno je ime ili nadimak, a možete ga promijeniti u
+postavkama). E-pošta služi za prijavu i za slanje poruka vezanih uz račun
+(primjerice potvrde registracije) i nikada se ne prikazuje drugim korisnicima.
+Ime vide samo članovi obitelji povezani s vašim računom te druga osoba u
+obiteljskoj pozivnici dok ta pozivnica čeka odgovor, kako bi obje strane znale
+s kim se povezuju. Ne tražimo puna imena i prezimena, datume rođenja,
+fotografije ni brojeve telefona.
 
 **Sadržaj koji stvarate u aplikaciji.** Kalendari, grupe aktivnosti,
 aktivnosti, zakazani termini, dnevne potvrde i njihov status pregleda,

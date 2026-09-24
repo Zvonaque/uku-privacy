@@ -16,9 +16,14 @@ deliberately short — the app collects very little.
 
 ## What we collect
 
-**Account data.** An email address and a chosen role (child or parent). The
-email is used to sign in and to send account emails (such as sign-up
-confirmation). We do not ask for names, birth dates, photos, or phone numbers.
+**Account data.** An email address, a chosen role (child or parent), and a
+display name you choose (a first name or a nickname is enough, and you can
+change it in settings). The email is used to sign in and to send account
+emails (such as sign-up confirmation); it is never shown to other users. The
+display name is shown only to family members linked to your account, and to the
+other person of a family invitation while it is pending, so each side can see
+who they are linking with. We do not ask for full names, birth dates, photos,
+or phone numbers.
 
 **Content you create in the app.** Calendars, activity groups, activities,
 scheduled slots, daily check-ins and their review status, events (such as
